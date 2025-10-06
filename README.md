@@ -1,5 +1,10 @@
 # Factions-TD
 
+## Appendix
+### Client Contact Details
+
+### Kobayashi's Contact Details
+
 ## Agreement
 - I reserve the right to choose who I work for, and therefore deny or discontinue any commission.
 - I will work on a separate file/ copy of the game and will send either the finished asset or the place file after the completion of each task.
